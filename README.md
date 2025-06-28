@@ -1,2 +1,2 @@
 # lab-agile-planning
-This is for the IBM Introduction to Agile Development and Scrum lab for agile training 
+This repository contains the lab for agile training, as part of IBM Agile Development and Scrum course.
